@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TalkTrack Pro",
+  "description": "A comprehensive web-based tool for call center agents to log caller information, track break schedules, and monitor auxiliary time. Features include dynamic forms based on call drivers, real-time break progress bars, and an integrated AUX timer.",
+  "requestFramePermissions": []
+}
